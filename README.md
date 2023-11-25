@@ -4,3 +4,8 @@ Room name is the name of the room that is given during creating room and passcod
 In this chat appliaction you can send messages, edit and delete message.
 when you enter into chat appliaction you will be given a random name and random id.
 only the user who created the room have the access to disable the room.
+
+To Run appliaction:
+install node module do npm install in project directory
+Run the server.js code -> go to server folder and run the following command " node server.js".
+then open the index.html file in the chrome browser
